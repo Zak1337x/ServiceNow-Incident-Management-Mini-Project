@@ -16,8 +16,9 @@ The goal of this project is to highlight my skills in **IT Service Management (I
 
 ---
 
-## 📄 Project Documentation
-You can view the full project documentation (with screenshots) in PDF format here:  
-👉 [Download Project PDF](./ServiceNow_Incident_Project.pdf)
+## 📄 Project Documentation  
+For a detailed walkthrough of this project including screenshots and step-by-step notes:  
+
+👉 [View Full Project Documentation (PDF)](./ServiceNow%20Incident%20Management%20Mini-Project.pdf)
 
 
